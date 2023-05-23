@@ -8,3 +8,11 @@ numeros = (2,5,7,34,76,2,98,45,2,8,2,22,6,73,6,4)
 
 print ("Nro Mayor: ", max(numeros))
 print ("Nro Menor: ", min(numeros))
+
+#sugerencia para tener menos lineas de codigo 
+
+numeros = (2, 5, 7, 34, 76, 2, 98, 45, 2, 8, 2, 22, 6, 73, 6, 4)
+
+print("Nro Mayor:", max(numeros))
+print("Nro Menor:", min(numeros))
+
